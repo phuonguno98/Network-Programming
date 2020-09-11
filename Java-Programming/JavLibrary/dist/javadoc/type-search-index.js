@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"mylib","l":"SQLServer"},{"p":"mylib","l":"TCPSocket"},{"p":"mylib","l":"UDPSocket"}]

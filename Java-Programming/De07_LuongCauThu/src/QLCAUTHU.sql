@@ -1,0 +1,19 @@
+CREATE DATABASE [QLCAUTHU]
+GO
+
+USE [QLCAUTHU]
+GO
+
+CREATE TABLE CAUTHU (
+MASO int PRIMARY KEY,
+TEN nvarchar(100),
+NAMSINH int,
+VITRI nvarchar(50),
+LUONG Decimal(10,0))
+
+INSERT INTO CAUTHU(MASO, TEN, NAMSINH, VITRI, LUONG) VALUES
+(101, N'Nguyen Quang H', 1997, N'Tien Ve', 8000000),
+(102, N'Nguyen Van A', 1997, N'Hau Ve', 7000000),
+(103, N'Bui Cong D', 1996, N'Thu Mon', 7500000),
+(104, N'Tran Thanh T', 1998, N'Tien Dao', 8500000),
+(105, N'Doan Duy M', 1997, N'Tien Dao', 8000000)
