@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel1" min="-2" pref="874" max="-2" attributes="0"/>
+              <EmptySpace pref="32" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel1" min="-2" pref="503" max="-2" attributes="0"/>
+              <EmptySpace pref="30" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value=" &lt;html&gt;&lt;head&gt;&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html;charset=UTF-8&quot; /&gt;&lt;title&gt;How to use Gmail with Google Apps&lt;/title&gt;&lt;/head&gt;&lt;body style=&quot;background-color:#e5e5e5; margin:20px 0;&quot;&gt;&lt;br /&gt;&lt;div style=&quot;margin:2%;&quot;&gt;&lt;div style=&quot;direction:ltr; text-align:left; font-family:&apos;Open sans&apos;,&apos;Arial&apos;,sans-serif; color:#444; background-color:white; padding:1.5em; border-radius:1em; box-shadow:1px -5px 8px 2px #bbb; max-width:580px; margin:2% auto 0 auto;&quot;&gt;&lt;table style=&quot;background:white;width:100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;div style=&quot;width:90px; height:54px; margin:10px auto;&quot;&gt;&lt;img src=&quot;https://services.google.com/fh/files/emails/google_logo_flat_90_color.png&quot; alt=&quot;Google&quot; width=&quot;90&quot; height=&quot;34&quot;/&gt;&lt;/div&gt;&lt;div style=&quot;width:90%; padding-bottom:10px; padding-left:15px&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; aria-hidden=&quot;true&quot; src=&quot;https://ssl.gstatic.com/ui/v1/icons/mail/images/gmail_logo_large.png&quot; style=&quot;display:inline-block; max-height:10px; margin-right:5px;&quot;/&gt;&lt;span style=&quot;font-family:&apos;Open sans&apos;,&apos;Arial&apos;,sans-serif; font-weight:bold; font-size:small; line-height:1.4em&quot;&gt;Hi Hotro&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-family:&apos;Open sans&apos;,&apos;Arial&apos;,sans-serif; font-size:2.08em;&quot;&gt;Work smarter with Gmail and Google Apps&lt;/span&gt;&lt;br/&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div style=&quot;float:left; clear:both; padding:0px 5px 10px 10px;&quot;&gt;&lt;img src=&quot;https://ssl.gstatic.com/mail/welcome/localized/en/welcome_calendar.png&quot; alt=&quot;Calendar&quot; style=&quot;display:block;&quot;width=&quot;129&quot;height=&quot;129&quot;/&gt;&lt;/div&gt;&lt;div style=&quot;float:left; vertical-align:middle; padding:10px; max-width:398px; float:left;&quot;&gt;&lt;table style=&quot;vertical-align:middle;&quot;&gt;&lt;tr&gt;&lt;td style=&quot;font-family:&apos;Open sans&apos;,&apos;Arial&apos;,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:20px;&quot;&gt;Manage Calendar meetings&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;&lt;span style=&quot;font-size:small; line-height:1.4em&quot;&gt;&lt;a href=&quot;https://www.google.com/calendar&quot; style=&quot;text-decoration:none; color:#15C&quot;&gt;Google Calendar&lt;/a&gt; makes scheduling meetings easy with shared calendars. You&#x2019;ll get invites and reminders and can even join a scheduled video meeting right from your inbox.&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;div style=&quot;float:left; clear:both; padding:0px 5px 10px 10px;&quot;&gt;&lt;img src=&quot;https://ssl.gstatic.com/mail/welcome/localized/en/welcome_drive.png&quot; alt=&quot;Send Large files&quot; style=&quot;display:block;&quot;width=&quot;129&quot;height=&quot;129&quot;/&gt;&lt;/div&gt;&lt;div style=&quot;float:left; vertical-align:middle; padding:10px; max-width:398px; float:left;&quot;&gt;&lt;table style=&quot;vertical-align:middle;&quot;&gt;&lt;tr&gt;&lt;td style=&quot;font-family:&apos;Open sans&apos;,&apos;Arial&apos;,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:20px;&quot;&gt;Use Drive to send large files&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;&lt;span style=&quot;font-size:small; line-height:1.4em&quot;&gt;&lt;a href=&quot;https://support.google.com/mail/answer/2480713?hl=en&amp;amp;utm_source=gmailwelcomeemail&amp;amp;utm_medium=email&amp;amp;utm_campaign=gmailwelcome&quot; style=&quot;text-decoration:none; color:#15C&quot;&gt;Send huge files in Gmail&lt;/a&gt; (up to 10GB) using &lt;a href=&quot;https://drive.google.com/&quot; style=&quot;text-decoration:none; color:#15C&quot;&gt;Google Drive&lt;/a&gt;. Plus, files stored in Drive stay up-to-date automatically so everyone has the most recent version and can access them from anywhere.&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;div style=&quot;float:left; clear:both; padding:0px 5px 10px 10px;&quot;&gt;&lt;img src=&quot;https://ssl.gstatic.com/mail/welcome/localized/en/welcome_collaborate.png&quot; alt=&quot;Collaborate&quot; style=&quot;display:block;&quot;width=&quot;129&quot;height=&quot;129&quot;/&gt;&lt;/div&gt;&lt;div style=&quot;float:left; vertical-align:middle; padding:10px; max-width:398px; float:left;&quot;&gt;&lt;table style=&quot;vertical-align:middle;&quot;&gt;&lt;tr&gt;&lt;td style=&quot;font-family:&apos;Open sans&apos;,&apos;Arial&apos;,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:20px;&quot;&gt;Collaborate on documents&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;&lt;span style=&quot;font-size:small; line-height:1.4em&quot;&gt;Get email alerts when someone comments on your shared document in &lt;a href=&quot;https://docs.google.com/document/&quot; style=&quot;text-decoration:none; color:#15C&quot;&gt;Docs&lt;/a&gt;, &lt;a href=&quot;https://docs.google.com/spreadsheet/&quot; style=&quot;text-decoration:none; color:#15C&quot;&gt;Sheets&lt;/a&gt; and &lt;a href=&quot;https://docs.google.com/presentation&quot; style=&quot;text-decoration:none; color:#15C&quot;&gt;Slides&lt;/a&gt;. To respond to the comment, just reply to the email.&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;div style=&quot;float:left; clear:both; padding:0px 5px 10px 10px;&quot;&gt;&lt;img src=&quot;https://ssl.gstatic.com/mail/welcome/localized/en/welcome_forms.png&quot; alt=&quot;Forms&quot; style=&quot;display:block;&quot;width=&quot;129&quot;height=&quot;129&quot;/&gt;&lt;/div&gt;&lt;div style=&quot;float:left; vertical-align:middle; padding:10px; max-width:398px; float:left;&quot;&gt;&lt;table style=&quot;vertical-align:middle;&quot;&gt;&lt;tr&gt;&lt;td style=&quot;font-family:&apos;Open sans&apos;,&apos;Arial&apos;,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:20px;&quot;&gt;Get quick answers with Forms&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;&lt;span style=&quot;font-size:small; line-height:1.4em&quot;&gt;Send &lt;a href=&quot;https://docs.google.com/forms&quot; style=&quot;text-decoration:none; color:#15C&quot;&gt;Google Forms&lt;/a&gt; via email. Recipients can complete forms and respond right from their inbox.&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt; &lt;div style=&quot;clear:both; padding-left:13px; height:6.8em;&quot;&gt;&lt;table style=&quot;width:100%; border-collapse:collapse; border:0&quot;&gt;&lt;tr&gt;&lt;td style=&quot;width:68px&quot;&gt;&lt;img alt=&apos;Gmail icon&apos; width=&quot;49&quot; height=&quot;37&quot; src=&quot;https://ssl.gstatic.com/ui/v1/icons/mail/images/gmail_logo_large.png&quot; style=&quot;display:block;&quot;/&gt;&lt;/td&gt;&lt;td style=&quot;align:left; font-family:&apos;Open sans&apos;,&apos;Arial&apos;,sans-serif; vertical-align:bottom&quot;&gt;&lt;span style=&quot;font-size:small&quot;&gt;Happy emailing,&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot;font-size:x-large; line-height:1&quot;&gt;The Gmail Team&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt; &lt;div style=&quot;direction:ltr;color:#777; font-size:0.8em; border-radius:1em; padding:1em; margin:0 auto 4% auto; font-family:&apos;Arial&apos;,&apos;Helvetica&apos;,sans-serif; text-align:center;&quot;&gt;&#xa9; 2015 Google Inc. 1600 Amphitheatre Parkway, Mountain View, CA 94043&lt;br/&gt;&lt;/div&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
